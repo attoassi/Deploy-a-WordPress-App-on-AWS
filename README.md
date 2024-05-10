@@ -176,9 +176,5 @@ sudo service httpd restart
 3. Use the provided scripts to set up the WordPress application on EC2 instances within the VPC.
 4. Configure the Auto Scaling Group, Load Balancer, and other services as per the architecture.
 5. Access the WordPress website through the Load Balancer's DNS name.
-
-## Contributing
-
-Contributions to this project are welcome! Please fork the repository and submit a pull request with your enhancements.
-
----
+6. Configure Route 53 Domaine Name, and the HTTPS listener on the Load Balancer to encrypt commucation between the end users and your website. 
+7. Access your website through your secured Domain name.
