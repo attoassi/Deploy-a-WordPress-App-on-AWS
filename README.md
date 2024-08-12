@@ -1,5 +1,5 @@
 # Deploy_a_WordPress_Web_App_on_AWS
-This repository contains the resources and scripts used to deploy a WordPress web application on Amazon Web Services (AWS)
+This repository contains the resources and scripts used to host a WordPress website on Amazon Web Services (AWS)
 The project leverages various AWS services used to ensure high availability, scalability, fault tolerance, and security for the WordPress application.
 
 ## Architecture Overview
