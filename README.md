@@ -27,7 +27,7 @@ The WordPress website is hosted on an EC2 instances within a highly available an
 This script is used for the initial setup of the WordPress application on an EC2 instance. It includes steps for installing Apache, PHP, MySQL, and mounting the Amazon EFS to the instance.
 
 ```bash
-# create to root user
+# switch to root user
 sudo su
 
 # update the software packages on the ec2 instance 
