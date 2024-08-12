@@ -3,7 +3,7 @@ This repository contains the resources and scripts used to host a WordPress webs
 The project leverages various AWS services used to ensure high availability, scalability, fault tolerance, and security for the WordPress application.
 
 ## Reference Architecture
-![Alt text](/Architecture_WebApp_on_ECS_3tier_vpc.png)
+![Alt text](/WordPress-WebApp-Reference-Architecture.png)
 
 ## Architecture Overview
 
